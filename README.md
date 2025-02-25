@@ -1,5 +1,5 @@
 # Github pages main homepage
 
-from here you can get to all my sites.
+from here you can get to all my sites, and see additional stuff.
 
-[Math Summaries](https://yeahboyyyyy.github.io/math-summaries/)
+[Main site](https://yeahboyyyyy.github.io/)
